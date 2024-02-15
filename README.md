@@ -1,2 +1,2 @@
 # Web-Agency
-simple web agency with html and css
+simple responsive web agency website
